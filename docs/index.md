@@ -9,9 +9,6 @@
 * **开发者手册** - 当您想扩展Alice CodeCreator功能时可以参考该部分文档
 * **参考资料** - 一些相关的文档与资料
 
-该项目的文档在[https://github.com/lxp135/alice-code-creator-docs](https://github.com/lxp135/alice-code-creator-docs)中，欢迎Star。
-该项目的源码在[https://github.com/lxp135/alice-code-creator](https://github.com/lxp135/alice-code-creator)中，欢迎Star。
-
 ## 文档目录
 
 * [首页](index.md)
@@ -34,5 +31,9 @@
 * 参考资料
     - [FAQ](References/FAQ.md)
     - [模板引擎Velocity](References/Velocity.md)
-    - [MySQL/JDBC/Java类型映射关系](References/Mapping.md)
+    - [数据类型映射关系](References/Mapping.md)
     
+## 仓库地址
+
+该项目的文档在[https://github.com/lxp135/alice-code-creator-docs](https://github.com/lxp135/alice-code-creator-docs)中，欢迎Star。
+该项目的源码在[https://github.com/lxp135/alice-code-creator](https://github.com/lxp135/alice-code-creator)中，欢迎Star。
