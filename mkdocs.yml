@@ -1,0 +1,38 @@
+site_name: Alice CodeCreator 中文参考文档
+theme: readthedocs
+use_directory_urls: true
+site_url: https://creator.liuxp.me
+site_author: 刘小平
+repo_url: https://github.com/lxp135/alice-code-creator
+copyright: Alice CodeCreator 中文参考文档由<a href="https://liuxp.me">刘小平</a>提供，项目托管在<a href="https://github.com/lxp135/alice-code-creator">GitHub</a>。<script type="text/javascript" src="https://js.users.51.la/18564708.js"></script>
+
+pages:
+- '首页': 'index.md'
+- '更新日志': 'released.md'
+- '用户手册':
+  - '快速开始': 'Users/Getting Started.md'
+  - '数据类型配置': 'Users/Data Type.md'
+  - '数据源配置': 'Users/Data Source.md'
+  - '模板配置': 'Users/Template.md'
+- '开发者手册':
+  - '开发计划': 'Developers/Plan.md'
+  - '构建与运行': 'Developers/Building.md'
+  - '软件架构介绍': 'Developers/Framework.md'
+  - '前端开发指南': 'Developers/Front End.md'
+  - '后台开发指南': 'Developers/Back End.md'
+  - '编写文档': 'Developers/Writing Documents.md'
+  - '贡献代码': 'Developers/Writing Code.md'
+  - '编写测试用例': 'Developers/Writing Test Cases.md'
+  - '贡献者列表': 'Developers/Contributors of Documents.md'
+- '参考资料':
+  - 'FAQ': 'References/FAQ.md'
+  - '模板引擎Velocity': 'References/Velocity.md'
+  - 'MySQL/JDBC/Java类型映射关系': 'References/Mapping.md'
+
+markdown_extensions:
+    - markdown.extensions.toc
+    - markdown.extensions.admonition
+    - markdown.extensions.smarty
+    - markdown.extensions.nl2br
+    - markdown.extensions.codehilite:
+        guess_lang: false
