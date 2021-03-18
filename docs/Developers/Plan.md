@@ -26,6 +26,6 @@
 - `Thymeleaf`，Spring Boot默认配置的模板引擎，语法简洁，功能强大。当前还未支持。
 
 ## 内置轻量级数据库
-当前Alice CodeCreator本身的数据存储在MySQL数据库中，环境配置起来较为麻烦，未来计划提供一个嵌入式数据库的解决方案。
+当前`Alice CodeCreator`本身的数据存储在`MySQL`数据库中，环境配置起来较为麻烦，未来计划提供一个嵌入式数据库的解决方案。
 当用户只自己使用低并发时，可以通过配置切换为内置数据库方案，这样安装起来就方便很多。
-目前在SQLite、H2 database engine和MySQL Embedded中选型。我个人倾向于H2。
+目前在`SQLite`、`H2 database engine`和`MySQL Embedded`中选型，我个人倾向于`H2 database engine`。
