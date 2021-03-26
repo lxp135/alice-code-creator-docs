@@ -14,6 +14,7 @@ pages:
   - '数据类型配置': 'Users/Data Type.md'
   - '数据源配置': 'Users/Data Source.md'
   - '模板配置': 'Users/Template.md'
+  - '生成代码': 'Users/Generator.md'
 - '开发者手册':
   - '开发计划': 'Developers/Plan.md'
   - '构建与运行': 'Developers/Building.md'
