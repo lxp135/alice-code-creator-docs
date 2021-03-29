@@ -22,17 +22,12 @@
 * 开发者手册
     - [开发计划](Developers/Plan.md)
     - [构建与运行](Developers/Building.md)
-    - [软件架构介绍](Developers/Framework.md)
-    - [前端开发指南](Developers/Front End.md)
-    - [后台开发指南](Developers/Back End.md)
-    - [编写文档](Developers/Writing Documents.md)
+    - [软件结构介绍](Developers/Framework.md)
     - [贡献代码](Developers/Writing Code.md)
-    - [编写测试用例](Developers/Writing Test Cases.md)
+    - [编写文档](Developers/Writing Documents.md)
     - [贡献者列表](Developers/Contributors of Documents.md)
 * 参考资料
     - [FAQ](References/FAQ.md)
-    - [模板引擎Velocity](References/Velocity.md)
-    - [数据类型映射关系](References/Mapping.md)
     
 ## 仓库地址
 
