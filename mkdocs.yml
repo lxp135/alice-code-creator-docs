@@ -10,20 +10,20 @@ pages:
 - '首页': 'index.md'
 - '更新日志': 'released.md'
 - '用户手册':
-  - '快速开始': 'Users/Getting Started.md'
-  - '数据类型配置': 'Users/Data Type.md'
-  - '数据源配置': 'Users/Data Source.md'
-  - '模板配置': 'Users/Template.md'
-  - '生成代码': 'Users/Generator.md'
+  - '快速开始': 'users/getting-started.md'
+  - '数据类型配置': 'users/data-type.md'
+  - '数据源配置': 'users/data-source.md'
+  - '模板配置': 'users/template.md'
+  - '生成代码': 'users/generator.md'
 - '开发者手册':
-  - '开发计划': 'Developers/Plan.md'
-  - '构建与运行': 'Developers/Building.md'
-  - '软件结构介绍': 'Developers/Framework.md'
-  - '贡献代码': 'Developers/Writing Code.md'
-  - '编写文档': 'Developers/Writing Documents.md'
-  - '贡献者列表': 'Developers/Contributors of Documents.md'
+  - '开发计划': 'developers/plan.md'
+  - '构建与运行': 'developers/building.md'
+  - '软件结构介绍': 'developers/framework.md'
+  - '贡献代码': 'developers/writing-code.md'
+  - '编写文档': 'developers/writing-documents.md'
+  - '贡献者列表': 'developers/contributors-of-documents.md'
 - '参考资料':
-  - 'FAQ': 'References/FAQ.md'
+  - 'FAQ': 'references/FAQ.md'
 
 markdown_extensions:
     - markdown.extensions.toc
