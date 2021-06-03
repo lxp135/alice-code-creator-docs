@@ -22,9 +22,11 @@
 我们需要填写如下字段：
 
 * 名称：可以任意起名，方便好记即可。
-* 类型：目前仅支持MySQL，未来会扩展其他数据库。
-* JDBC驱动：MySQL可以配置为com.mysql.cj.jdbc.Driver。
-* 数据库地址：你在工程中如何配置，这里同样。比如jdbc:mysql://localhost:3306/disaster_platform_basic?characterEncoding=UTF-8&useSSL=true&serverTimezone=Asia/Shanghai
+* 类型：目前支持MySQL、Oracle和SQL Server，其他数据库暂不支持。
+* MySQL的JDBC驱动可以配置为`com.mysql.cj.jdbc.Driver`。
+* Oracle的JDBC驱动可配置为`oracle.jdbc.driver.OracleDriver`。
+* SQLServer的JDBC驱动可配置为`com.microsoft.sqlserver.jdbc.SQLServerDriver`。
+* 数据库地址：你在工程中如何配置，这里同样。比如`jdbc:mysql://localhost:3306/disaster_platform_basic?characterEncoding=UTF-8&useSSL=true&serverTimezone=Asia/Shanghai`
 * 用户名：数据库用户名
 * 密码：数据库密码
 
