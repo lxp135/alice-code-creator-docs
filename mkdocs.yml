@@ -6,7 +6,7 @@ site_author: 刘小平
 repo_url: https://github.com/lxp135/alice-code-creator-docs
 copyright: Alice CodeCreator 中文参考文档由<a href="https://liuxp.me">刘小平</a>提供，项目托管在<a href="https://github.com/lxp135/alice-code-creator-docs">GitHub</a>。<script type="text/javascript" src="https://js.users.51.la/18564708.js"></script>
 
-pages:
+nav:
 - '首页': 'index.md'
 - '更新日志': 'released.md'
 - '用户手册':
