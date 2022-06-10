@@ -4,7 +4,7 @@ use_directory_urls: true
 site_url: https://creator.liuxp.me
 site_author: 刘小平
 repo_url: https://github.com/lxp135/alice-code-creator-docs
-copyright: Alice CodeCreator 中文参考文档由<a href="https://liuxp.me">刘小平</a>提供，项目托管在<a href="https://github.com/lxp135/alice-code-creator-docs">GitHub</a>。<script type="text/javascript" src="https://js.users.51.la/18564708.js"></script>
+copyright: Alice CodeCreator 中文参考文档由<a href="https://liuxp.me">刘小平</a>提供，项目托管在<a href="https://github.com/lxp135/alice-code-creator-docs">GitHub</a>。<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js?id=CDqGooQbS8dts6eI&ck=CDqGooQbS8dts6eI"></script>
 
 nav:
 - '首页': 'index.md'
