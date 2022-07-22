@@ -3,6 +3,11 @@
 
 > [Alice CodeCreator](http://creator.liuxp.me) 是一个通用代码生成辅助工具，支持生成包括不限于html、js、java、xml、sql等各种类型代码。
 
+## 演示环境地址
+https://demo.liuxp.me/
+账号 liuxp
+密码 123456
+
 ## 项目特性
 
 * 支持批量操作，可以一次性选择多张表生成代码并打包。
